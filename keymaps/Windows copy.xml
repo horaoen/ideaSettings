@@ -5,6 +5,7 @@
   </action>
   <action id="Graph.AlignNodes.Left" />
   <action id="Graph.DistributeNodes.Horizontally" />
+  <action id="InsertLiveTemplate" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
