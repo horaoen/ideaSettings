@@ -1,0 +1,24 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Android.Designer.AutoArrange" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Graph.AlignNodes.Left" />
+  <action id="Graph.DistributeNodes.Horizontally" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift l" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift h" />
+  </action>
+  <action id="Terminal.ClearBuffer" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
