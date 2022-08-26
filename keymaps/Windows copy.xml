@@ -9,15 +9,11 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift l" />
-  </action>
+  <action id="NextTab" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift h" />
-  </action>
+  <action id="PreviousTab" />
   <action id="Terminal.ClearBuffer" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
