@@ -2,6 +2,7 @@
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
     <disabledLanguages>
+      <option value="XML" />
       <option value="yaml" />
     </disabledLanguages>
   </component>
